@@ -1,6 +1,6 @@
 local Games = {
-  [3623096087] = "https://luna-hub-public.vercel.app/api/luna-hub-public-protected-7wj6g0nha6g3", -- Muscle Legends
-    [3101667897] = "https://luna-hub-legend-of-speed-protected.vercel.app/api/luna-hub-public-protected-j82h62952g", -- Legends of Speed
+  [3623096087] = "https://luna-hub-public.vercel.app/api/luna-hub-public-protected-7wj6g0nha6g3",
+    [3101667897] = "https://luna-hub-legend-of-speed-protected.vercel.app/api/luna-hub-public-protected-j82h62952g", 
 }
 
 return Games
